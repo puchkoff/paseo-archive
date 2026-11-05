@@ -3,7 +3,9 @@
   "name": "Archive",
   "description": "An Archive button in the chat that archives the current workspace.",
   "icon": "assets/icon.png",
-  "media": [],
+  "media": [
+    "assets/screenshot-archive.png"
+  ],
   "requirements": {
     "paseo": ">=0.15.2"
   }
