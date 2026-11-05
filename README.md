@@ -2,6 +2,8 @@
 
 # Archive — a Paseo plugin
 
+![Archive: Paseo plugin screen (illustration)](docs/hero.svg)
+
 Adds an Archive button to every agent's composer. Pressing it archives the workspace that chat belongs to, the same as archiving it from the sidebar.
 
 ![The Archive button, outlined, in an agent's composer](assets/screenshot-archive.png)
