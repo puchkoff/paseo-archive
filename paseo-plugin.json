@@ -1,0 +1,10 @@
+{
+  "id": "paseo-archive",
+  "name": "Archive",
+  "description": "An Archive button in the chat that archives the current workspace.",
+  "icon": "assets/icon.png",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.2"
+  }
+}
